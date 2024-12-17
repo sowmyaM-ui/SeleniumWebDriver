@@ -6,8 +6,7 @@ public class GITDEMO {
 	{
 	System.out.println("This is for demo1");
 	System.out.println("this is demo2");
-	System.out.println("copying from the server");
-
+	System.out.println("this is updated demo");
 	}
 	
 
